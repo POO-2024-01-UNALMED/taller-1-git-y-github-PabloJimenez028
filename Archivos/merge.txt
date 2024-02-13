@@ -1,1 +1,4 @@
+
 Juan Pablo Jimenez Vergara, 18 años, quiero aprender a no tirame la base de datos de la empresa
+
+Puedo crear un commit y subir la carpeta porque ahora la carpeta tiene algun archivo dentro
