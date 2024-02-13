@@ -2,3 +2,5 @@
 Juan Pablo Jimenez Vergara, 18 años, quiero aprender a no tirame la base de datos de la empresa
 
 Puedo crear un commit y subir la carpeta porque ahora la carpeta tiene algun archivo dentro
+
+Hay que tener cuidado al modificar 2 archivos al mismo tiempo ya que esto puede producir una incompatibilidad y un conflicto al subirlos a la nube, por esto es mejor solo utilizar Github o Github Desktop en vez de los 2 al mismo tiempo.
